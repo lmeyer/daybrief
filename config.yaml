@@ -1,0 +1,13 @@
+gemini:
+  model: gemini-3-flash-preview
+newsletter:
+  language: fr
+  max_highlights: 5
+  default_lookback: ''
+  editorial_prompt: A casual, tech-savvy tone with practical insights.
+mail:
+  subject_prefix: '[DayBrief]'
+sources:
+  rss: []
+  youtube: []
+  podcasts: []
