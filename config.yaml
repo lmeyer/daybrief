@@ -8,6 +8,8 @@ newsletter:
 mail:
   subject_prefix: '[DayBrief]'
 sources:
-  rss: []
+  rss:
+    - name: Flux
+      url: https://flux.yoandev.co/rss.xml
   youtube: []
   podcasts: []
