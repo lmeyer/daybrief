@@ -1,10 +1,16 @@
 gemini:
-  model: gemini-3-flash-preview
+  model: gemini-3.5-flash-preview
 newsletter:
   language: fr
   max_highlights: 5
   default_lookback: ''
-  editorial_prompt: A casual, tech-savvy tone with practical insights.
+  editorial_prompt: >
+    Ton direct, concret et utile pour des devs.
+    Rédige un édito en français de 90 à 120 mots maximum.
+    Un seul paragraphe.
+    2 idées clés maximum.
+    Pas d’introduction générale, pas de conclusion “morale”.
+    Évite les formulations vagues.
 mail:
   subject_prefix: '[DayBrief]'
 sources:
