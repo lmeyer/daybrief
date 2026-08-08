@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-08-08T16:42:02Z",
+  "subject": "De la génération au pilotage : l'essor des agents IA en ingénierie logicielle",
+  "editorial": "L'émergence des agents IA comme DeepSeek V4 Flash, Muse Code ou Claude Code redéfinit la productivité technique en déplaçant la valeur ajoutée du codage brut vers le pilotage contextuel. Désormais, le rôle du développeur évolue vers la structuration des exigences métier et la définition de garde-fous stricts, comme le démontrent les outils spécialisés à l'image de Laravel Boost. Pour les CTOs, l'enjeu stratégique n'est plus seulement d'adopter des assistants de génération de code, mais d'adapter l'architecture des équipes et la qualité des contextes transmis afin de maximiser la DevEx. Tester ces agents au sein de workflows automatisés devient incontournable pour maintenir un avantage compétitif tout en maîtrisant les risques opérationnels.",
+  "highlights": [
+    {
+      "title": "DeepSeek V4 Flash 0731 : Une avancée majeure pour les agents IA",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/788954288bc2/",
+      "analysis": "L'arrivée de ce modèle renforce la compétition sur le segment des agents spécialisés pour le dev à bas coût. Ses optimisations sur le terminal et la programmation permettent d'exécuter des tâches complexes sans faire exploser la facture d'API. C'est une alternative crédible pour orchestrer des pipelines d'automatisation d'infrastructure ou de refactoring continu à grande échelle."
+    },
+    {
+      "title": "Test de Muse Code par Meta : un concurrent pour Claude Code ?",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/8731b482358c/",
+      "analysis": "Avec Muse Spark 1.2, Meta entre frontalement en concurrence avec Claude Code et Codex sur le créneau des agents CLI. La capacité d'édition multi-fichiers directe dans le terminal est essentielle pour maintenir le flux de travail des équipes senior. Évaluer ce type d'outil permet d'anticiper l'intégration d'agents totalement autonomes dans vos environnements de développement local."
+    },
+    {
+      "title": "Skills, agents, hooks : comment Claude Code écrit les issues GitHub de ce blog",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/6985f58228fe/",
+      "analysis": "L'automatisation des tâches de maintenance via des hooks et des agents montre concrètement comment élever la Developer Experience (DevEx). En déléguant le triage et la création d'issues structurées à partir d'audits, les équipes réduisent le bruit opérationnel. Cette approche modulaire constitue un modèle d'architecture réutilisable pour vos propres workflows d'ingénierie."
+    },
+    {
+      "title": "Organiser une équipe de développement à l’ère de l’IA - Part II.1",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/b6309510be22/",
+      "analysis": "Le modèle d'ingénierie logicielle bascule de la production de code vers la gestion fine du contexte et des spécifications. Les développeurs deviennent les superviseurs d'agents intelligents, ce qui exige des compétences renforcées en analyse d'architecture et en modélisation métier. Les managers doivent revoir les rôles internes pour valoriser cette capacité de pilotage plutôt que le volume de lignes produites."
+    },
+    {
+      "title": "Laravel Boost : Adapter l'IA aux conventions de votre code",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/a8836741541d/",
+      "analysis": "En apprenant automatiquement le style d'un projet via le skill infer-conventions, cet outil résout le problème du code généré générique et désaligné. Cela réduit drastiquement le temps passé en revue de code sur les suggestions faites par l'IA. Pour les équipes travaillant sur de gros monolithes, c'est la garantie de préserver la cohérence architecturale sans effort manuel."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Créer des vidéos avec du code via Remotion",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/2eeb87771e7f/",
+      "summary": "Générez et automatisez des vidéos d'animation dynamiques en utilisant React et l'outil Remotion."
+    },
+    {
+      "title": "Du chaos au flow, faut-il miser sur la DevEx ?",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/7a8c5e1f1652/",
+      "summary": "Analyse sur la transformation du chaos opérationnel en état de flow grâce aux investissements DevEx."
+    },
+    {
+      "title": "Bilan de la saison 2025-2026",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/878f2dc85318/",
+      "summary": "Retour d'expérience annuel sur les interventions en conférences et les publications techniques."
+    },
+    {
+      "title": "La QA, c'est quoi ? Demandez aux 8,5 millions d'écrans bleus",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/2b76b300af9c/",
+      "summary": "Rappel de l'importance vitale des processus de QA à travers les récentes pannes informatiques mondiales."
+    },
+    {
+      "title": "L'impact réel de l'IA sur le métier de développeur, deux ans après",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/f38715398b0f/",
+      "summary": "Bilan pragmatique sur la réalité du métier de développeur augmenté par l'IA deux ans après les vagues de prédictions."
+    },
+    {
+      "title": "Manipulation native d'images dans Laravel 13",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/ae3097fd68ab/",
+      "summary": "Présentation des méthodes natives d'édition d'images orient() et cover() intégrées à Laravel 13."
+    },
+    {
+      "title": "Intelligence sociale : exploration de la cognition humaine avec Dana Samson",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/4e9ff418d3da/",
+      "summary": "Épisode de podcast examinant les mécanismes de la cognition humaine face aux avancées des LLM."
+    },
+    {
+      "title": "Construire la fonction RH d'une TPE : par où commencer ? (épisode 2)",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/1b247a21a874/",
+      "summary": "Guide méthodologique sur la digitalisation et la mise en conformité des processus administratifs RH."
+    },
+    {
+      "title": "Les news de l'été 2026 : juin \u0026 juillet",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/99713918ce40/",
+      "summary": "Synthèse des événements tech estivaux et préparation de la veille technique de rentrée."
+    }
+  ]
+}
