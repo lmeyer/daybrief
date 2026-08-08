@@ -5,12 +5,21 @@ newsletter:
   max_highlights: 5
   default_lookback: ''
   editorial_prompt: >
-    Ton direct, concret et utile pour des devs.
-    Rédige un édito en français de 90 à 120 mots maximum.
-    Un seul paragraphe.
-    2 idées clés maximum.
-    Pas d’introduction générale, pas de conclusion “morale”.
-    Évite les formulations vagues.
+    The following instructions take precedence over the previous EDITORIAL
+    length and structure instructions.
+
+    Ignore the previous requirement to write 4-6 paragraphs.
+    The editorial MUST be written in French, contain exactly one paragraph,
+    and be between 90 and 120 words.
+
+    Write for an experienced CTO and software developer.
+    Cover at most two key ideas. Be direct, concrete and analytical.
+    Prioritize practical implications for AI, software development, Symfony,
+    GitHub, DevOps, cybersecurity and infrastructure when relevant.
+    Highlight tools, technologies or approaches that are genuinely worth
+    testing or could realistically be adopted in a company.
+    Avoid beginner explanations, generic introductions, vague statements,
+    exhaustive source-by-source summaries and generic conclusions.
 mail:
   subject_prefix: '[DayBrief]'
 sources:
