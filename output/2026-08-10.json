@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-08-10T11:39:52Z",
+  "subject": "Claude Code \u0026 Laravel : Standardiser l'IA au niveau architecture",
+  "editorial": "L'intégration des agents CLI comme Claude Code dans les frameworks web modernes marque un tournant structurant pour les équipes d'ingénierie. Il ne s'agit plus de simplement générer des extraits de code isolés, mais d'orchestrer un agent contextualisé capable de naviguer dans l'intégralité d'un projet Laravel. En formalisant les conventions d'architecture, de linting et de test via des fichiers dédiés comme CLAUDE.md ou le répertoire .ai/rules/, les CTOs peuvent garantir un niveau de qualité rigoureux sans friction. Cette mémoire persistante inter-sessions et l'usage de sous-agents automatisent les tâches répétitives tout en respectant scrupuleusement les standards de l'entreprise, offrant une réelle productivité mesurable pour vos développeurs senior.",
+  "highlights": [
+    {
+      "title": "Laravel augmenté par l'IA - Épisode 1 : La conversation et les sous-agents",
+      "source_name": "Flux",
+      "source_url": "https://flux.yoandev.co/article/f1da0473f5b8/",
+      "analysis": "L'adoption d'outils comme Claude Code dans Laravel montre une évolution majeure : l'IA passe du statut d'assistant de frappe à celui d'agent autonome contextualisé. La clé de cette transition réside dans l'encapsulation des règles métier et de style dans des fichiers explicites comme CLAUDE.md et le dossier .ai/rules/. Pour les équipes de développement, cela signifie une réduction drastique des hallucinations et un respect systématique des outils de qualité comme Pint ou Pest. Tester cette approche permet de cadrer l'IA pour qu'elle devienne un levier d'architecture plutôt qu'une source de dette technique."
+    }
+  ],
+  "resources": []
+}
